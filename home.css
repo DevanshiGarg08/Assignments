@@ -1,0 +1,33 @@
+body{background-color: #ffffcc;
+font-family: courier, Helvetica, sans-serif;
+border-style: groove;
+  border-width: 7px;
+  border-color: #ff9999;
+font-style: italic;
+}
+h1
+{
+font-size: 45px;
+text-shadow: 2px 2px #ff3300;
+}
+h2
+{
+text-shadow: 2px 2px white;
+}
+hr
+{
+border-top: 4px solid #ff6666;
+}
+img
+{
+  border-radius: 8px;
+border: 1px solid white;
+
+  padding: 10px;
+
+}
+th, td {
+
+  padding: 8px;
+}
+tr:nth-child(odd) {background-color: #ffcc99;}
